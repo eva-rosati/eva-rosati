@@ -2,15 +2,11 @@
 
 I'm passionate about leveraging technology to built products that **people want.** and that make a real **impact**.
 
----
-
 ## About Me
 - 👷‍♀️ 2nd year Management Engineering Student @ The University of Waterloo
 - 💜 Hackathon Director @ Women in Engineering
 - 🎧 Currently building CampusFM, a Spotify-integrated platform that helps students connect through shared music tastes
 - 👩🏻‍💻 Experience building user dashboards, REST APIs, full-stack web applications, and workflow automation tools
-
----
 
 ## Skills
 **Languages:** Python, Java, JavaScript, TypeScript, R, GraphQL, SQL, HTML/CSS, VBA 
