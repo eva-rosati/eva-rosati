@@ -1,6 +1,6 @@
 ## Hey there, I'm Eva 👋
 
-I'm passionate about leveraging technology to built products that **people want.** and that make a real **impact**.
+I'm passionate about leveraging technology to built products that **people want** and that make a real **impact**.
 
 ## About Me
 - 👷‍♀️ 2nd year Management Engineering Student @ The University of Waterloo
