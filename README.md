@@ -10,8 +10,11 @@ I'm passionate about leveraging technology to built products that **people want.
 
 ## Skills
 Languages: Python, Java, JavaScript, TypeScript, R, GraphQL, SQL, HTML/CSS, VBA 
+
 Frameworks & Libraries: React.js, Node.js, Express.js, Tailwind CSS
+
 Tools: Git, Docker, PostgreSQL, MySQL, MongoDB, AWS, Kubernetes, Microsoft Excel
+
 Currently Learning: AI/ML tools and concepts
 
 ## 📫 Let's Connect!
