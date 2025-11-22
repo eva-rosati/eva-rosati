@@ -14,7 +14,7 @@ I'm passionate about leveraging technology to built products that **people want*
 **Tools:** Git, Docker, PostgreSQL, MySQL, MongoDB, AWS, Kubernetes, Microsoft Excel <br>
 **Currently Learning:** AI/ML tools and concepts 
 
-## 📫 Let's Connect!
+## Let's Connect!
 - 📧 Email: erosati@uwaterloo.ca  
 - 💼 LinkedIn: www.linkedin.com/in/eva-rosati
 
