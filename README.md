@@ -9,10 +9,10 @@ I'm passionate about leveraging technology to built products that **people want.
 - 👩🏻‍💻 Experience building user dashboards, REST APIs, full-stack web applications, and workflow automation tools
 
 ## Skills
-**Languages:** Python, Java, JavaScript, TypeScript, R, GraphQL, SQL, HTML/CSS, VBA 
-**Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS
-**Tools:** Git, Docker, PostgreSQL, MySQL, MongoDB, AWS, Kubernetes, Microsoft Excel
-**Currently Learning:** AI/ML tools and concepts
+Languages: Python, Java, JavaScript, TypeScript, R, GraphQL, SQL, HTML/CSS, VBA 
+Frameworks & Libraries: React.js, Node.js, Express.js, Tailwind CSS
+Tools: Git, Docker, PostgreSQL, MySQL, MongoDB, AWS, Kubernetes, Microsoft Excel
+Currently Learning: AI/ML tools and concepts
 
 ## 📫 Let's Connect!
 - 📧 Email: erosati@uwaterloo.ca  
